@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Btw</string>
+    <string name="stop_activiti">   Opreşte activitate   </string>
+   <string name="activia">   Activitate   </string>
+   <string name="ok">   ok  </string>
+   <string name="cancel">anulare</string>
+   <string name="astop"> STOP </string>
+   <string name="ca">Şterge activităţile create  </string>
+   <string name="cah">Şterge tot istoricul </string>
+   <string name="ch">Şterge istoricul </string>
+   <string name="del">Şterge activitate ?</string>
+   <string name="cs">Personalizare </string>
+   <string name="salarm">Setează alarmă </string>
+   <string name="spause">Pauză după</string>
+   <string name="sstop">Opreşte si salvează </string>
+    <string name="hstart">Început: </string>
+     <string name="hfinish">Sfârşit: </string>
+     <string name="c1">Culoare 1</string>
+     <string name="c2">Culoare 2</string>
+     <string name="c3">Culoare 3</string>
+     <string name="c4">Culoare 4</string>
+     <string name="c5">Culoare 5</string>
+     <string name="c6">Culoare 6</string>
+     <string name="c7">Culoare 7</string>
+     <string name="c8">Culoare 8</string>
+     <string name="c9">Culoare 9</string>
+     <string name="c10">Culoare 10</string>
+     <string name="c11">Culoare 11</string>
+     <string name="c12">Culoare 12</string>
+     <string name="c13">Culoare 13</string>
+     <string name="c14">Culoare 14</string>
+     <string name="c15">Culoare 15</string>
+     <string name="c16">Culoare 16</string>
+     <string name="c17">Culoare 17</string>
+     <string name="c18">Culoare 18</string>
+     <string name="c19">Culoare 19</string>
+     <string name="c20">Culoare 20</string>
+     <string name="start">Start  </string>
+     <string name="pause">Pauză  </string>
+     <string name="stop">Stop  </string>
+      <string name="custom">Custom </string>
+      <string name="history">Istoric  </string>
+       <string name="selcategory">Selectează categoria</string>
+       <string name="read">Citesc</string>
+       <string name="run">Jogging</string>
+       <string name="work">Muncă</string>
+       <string name="other">Alte</string>
+       <string name="logo">Logo</string>
+       <string name="label">Etichetă</string>
+       <string name="h1">Tastează activitate.</string>
+       <string name="h2">Tastează etichetă.</string>
+       <string name="create">Creare</string>
+       <string name="saveact"> Salvează activitate </string> 
+     <string name="nor"> No report </string>
+     <string name="username">Utilizator: </string>
+     <string name="chs"> Şterge istoricul  </string>
+     <string name="cahs">Şterge tot istoricul  </string>
+     <string name="cas"> Şterge activităţile </string>
+     <string name="s">Salvează</string>
+     <string name="color">Culoare: </string>
+     <string name="history2">Istoric</string>
+     <string name="report">Raport </string>
+
+     <string name="othert">Alte</string>
+      <string name="created">Activitate creată </string>
+      <string name="taal">Tastaţi activitate si etichetă</string>
+  
+      
+      <string name="historyt">Istoric</string>
+      <string name="noh">Nu există istoric  </string>
+      
+       <string name="historysadadt" >Meniu</string>
+       <string name="scf">Selectează categoria </string>
+       <string name="sf">Apasă start</string>
+       <string name="wel">   Bine ai venit  </string>
+       <string name="exit">Apasă înapoi pentru a ieşi</string>
+       <string name="min"> minut </string>
+       <string name="mins"> minute </string>
+       <string name="h"> oră </string>
+       <string name="hs"> ore </string>
+       <string name="sec"> secundă </string>
+       <string name="secs"> secunde </string>
+       <string name="works"> Acţiune oprită </string>
+      
+      <string name="rep">Raport</string>
+      <string name="date">Dată</string>
+      <string name="norep"> Nu există raport </string>
+      
+      
+      <string name="Settings">Setări</string>
+      <string name="saved">Setări salvate</string>
+      
+      
+      
+      <string name="today">Istoric </string>
+      <string name="dela">Şterge activitate </string>
+       <string name="lang">Limbă</string>
+      
+      
+      
+      
+</resources>

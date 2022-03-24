@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Btw</string>
+    <string name="stop_activiti">   Прекратить деятельность   </string>
+   <string name="activia">   Деятельность   </string>
+   <string name="ok">   хорошо  </string>
+   <string name="cancel">аннулирование</string>
+   <string name="astop"> СТОП </string>
+   <string name="ca">Удалить деятельности созданы  </string>
+   <string name="cah">Удалить всю историю </string>
+   <string name="ch">Удалить историю </string>
+   <string name="del">Удалить активность</string>
+   <string name="cs">воплощение </string>
+   <string name="salarm">Установка будильника </string>
+   <string name="spause">Пауза после</string>
+   <string name="sstop">Остановить и сохранить </string>
+    <string name="hstart">Старт: </string>
+     <string name="hfinish">Конец: </string>
+     <string name="c1">Цвет 1</string>
+     <string name="c2">Цвет 2</string>
+     <string name="c3">Цвет 3</string>
+     <string name="c4">Цвет 4</string>
+     <string name="c5">Цвет 5</string>
+     <string name="c6">Цвет 6</string>
+     <string name="c7">Цвет 7</string>
+     <string name="c8">Цвет 8</string>
+     <string name="c9">Цвет 9</string>
+     <string name="c10">Цвет 10</string>
+     <string name="c11">Цвет 11</string>
+     <string name="c12">Цвет 12</string>
+     <string name="c13">Цвет 13</string>
+     <string name="c14">Цвет 14</string>
+     <string name="c15">Цвет 15</string>
+     <string name="c16">Цвет 16</string>
+     <string name="c17">Цвет 17</string>
+     <string name="c18">Цвет 18</string>
+     <string name="c19">Цвет 19</string>
+     <string name="c20">Цвет 20</string>
+     <string name="start">начало  </string>
+     <string name="pause">Время Вышло  </string>
+     <string name="stop">стоп  </string>
+      <string name="custom">обычай </string>
+      <string name="history">История  </string>
+       <string name="selcategory">Выберите категорию</string>
+       <string name="read">Я Читаю</string>
+       <string name="run">Запуск</string>
+       <string name="work">Работа</string>
+       <string name="other">Другое</string>
+       <string name="logo">логотип</string>
+       <string name="label">этикетка</string>
+       <string name="h1">Тип деятельности.</string>
+       <string name="h2">Типовой шильдик.</string>
+       <string name="create">Создать</string>
+       <string name="saveact"> Сохранить деятельности </string> 
+     <string name="nor"> Нет докладе </string>
+     <string name="username">Пользователь: </string>
+     <string name="chs"> Очистить историю  </string>
+     <string name="cahs">Очистить все История </string>
+     <string name="cas"> Удалить деятельности </string>
+     <string name="s">Сохранить</string>
+     <string name="color">Цвет: </string>
+     <string name="history2">История</string>
+     <string name="report">отчет </string>
+
+     <string name="othert">Другое</string>
+      <string name="created">Деятельность создан</string>
+      <string name="taal">Тип деятельности и этикетки</string>
+  
+      
+      <string name="historyt">История</string>
+      <string name="noh">Существует историческая </string>
+      
+       <string name="historysadadt" >меню</string>
+       <string name="scf">Выберите категорию</string>
+       <string name="sf">Нажмите кнопку Пуск</string>
+       <string name="wel">Добро пожаловать</string>
+       <string name="exit">Нажмите Назад для выхода</string>
+       <string name="min"> минут </string>
+       <string name="mins"> минуты </string>
+       <string name="h"> время </string>
+       <string name="hs"> часов</string>
+       <string name="sec"> второй </string>
+       <string name="secs"> секунд </string>
+       <string name="works"> Действие от </string>
+      
+      <string name="rep">отчет</string>
+      <string name="date">Дата</string>
+      <string name="norep"> Нет докладе </string>
+      
+      
+      <string name="Settings">Настройки</string>
+      <string name="saved">Настройки сохраняются</string>
+      <string name="lang">язык</string>
+      
+      
+      <string name="today">История </string>
+      <string name="dela">Удалить активность</string>
+      
+      
+      
+      
+</resources>

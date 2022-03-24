@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/albastru" >
+
+    <Button
+        android:id="@+id/h"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/history2"
+        android:background="@android:drawable/btn_default"/>
+
+    <Button
+        android:id="@+id/r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/h"
+        android:layout_below="@+id/h"
+        android:background="@android:drawable/btn_default"
+        android:text="@string/report" />
+
+</RelativeLayout>

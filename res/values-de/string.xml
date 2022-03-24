@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Btw</string>
+    <string name="stop_activiti">Aktivität beenden </string>
+   <string name="activia">   Aktivität  </string>
+   <string name="ok">   ok  </string>
+   <string name="cancel">Stornieren</string>
+   <string name="astop"> Stopp</string>
+   <string name="ca">löschen die erstellten Aktivitäten</string>
+   <string name="cah">Geschichte - komplett löschen</string>
+   <string name="ch">Verlauf löschen </string>
+   <string name="del">Entfernen Aktivität ?</string>
+   <string name="cs">Gestalten</string>
+   <string name="salarm">Wecker einstellen </string>
+   <string name="spause">Pause nach</string>
+   <string name="sstop">Beenden und Speichern </string>
+    <string name="hstart">Start: </string>
+     <string name="hfinish">Ende: </string>
+     <string name="c1">Farbe 1</string>
+     <string name="c2">Farbe 2</string>
+     <string name="c3">Farbe 3</string>
+     <string name="c4">Farbe 4</string>
+     <string name="c5">Farbe 5</string>
+     <string name="c6">Farbe 6</string>
+     <string name="c7">Farbe 7</string>
+     <string name="c8">Farbe 8</string>
+     <string name="c9">Farbe 9</string>
+     <string name="c10">Farbe 10</string>
+     <string name="c11">Farbe 11</string>
+     <string name="c12">Farbe 12</string>
+     <string name="c13">Farbe 13</string>
+     <string name="c14">Farbe 14</string>
+     <string name="c15">Farbe 15</string>
+     <string name="c16">Farbe 16</string>
+     <string name="c17">Farbe 17</string>
+     <string name="c18">Farbe 18</string>
+     <string name="c19">Farbe 19</string>
+     <string name="c20">Farbe 20</string>
+     <string name="start">Start  </string>
+     <string name="pause">Auszeit  </string>
+     <string name="stop">Aufhören  </string>
+      <string name="custom">Gestalten</string>
+      <string name="history">Geschichte  </string>
+       <string name="selcategory">Wählen Sie Kategorie</string>
+       <string name="read">Lesen</string>
+       <string name="run">Rennen</string>
+       <string name="work">Arbeiten</string>
+       <string name="other">Andere</string>
+       <string name="logo">Emblem</string>
+       <string name="label">Etikett</string>
+       <string name="h1">Typ Aktivität..</string>
+       <string name="h2">Typenschild.</string>
+       <string name="create">Schöpfung</string>
+       <string name="saveact"> Speichern Aktivität </string> 
+     <string name="nor"> Kein Bericht </string>
+     <string name="username">Benutzer: </string>
+     <string name="chs"> Verlauf löschen  </string>
+     <string name="cahs">Löschen aller Geschichte  </string>
+     <string name="cas"> Aktivitäten entfernen </string>
+     <string name="s">Speichern</string>
+     <string name="color">Farbe: </string>
+     <string name="history2">Geschichte</string>
+     <string name="report">Bericht </string>
+
+     <string name="othert">Andere</string>
+      <string name="created">Aktivität erstellt</string>
+      <string name="taal">Typ Aktivität und Label</string>
+  
+      
+      <string name="historyt">Geschichte</string>
+      <string name="noh">keine verfügbare Geschichte</string>
+      
+       <string name="historysadadt" >Menü</string>
+       <string name="scf">Wählen Sie Kategorie </string>
+       <string name="sf">Klicken Sie auf Start</string>
+       <string name="wel">   Begrüßung  </string>
+       <string name="exit">Klicken Sie auf Zurück, um zu beenden.</string>
+       <string name="min"> Minute </string>
+       <string name="mins"> Minuten </string>
+       <string name="h"> Zeit </string>
+       <string name="hs"> Stunden </string>
+       <string name="sec"> Zweite </string>
+       <string name="secs"> Sekunden</string>
+       <string name="works"> Prozess beendet</string>
+      
+      <string name="rep">Bericht</string>
+      <string name="date">Datum.</string>
+      <string name="norep"> Es gibt keinen Bericht </string>
+      
+      
+      <string name="Settings">Einstellungen</string>
+      <string name="saved">Einstellungen gespeichert</string>
+       <string name="lang">Sprache</string>
+      
+      
+      <string name="today">Geschichte </string>
+      <string name="dela">Entfernen Aktivität </string>
+      
+      
+      
+      
+</resources>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+      <string name="app_name" >Btw</string>
+    <string name="stop_activiti">   Arrêter l activité   </string>
+   <string name="activia">   Activité   </string>
+   <string name="ok">   ok  </string>
+   <string name="cancel">annuler</string>
+   <string name="astop"> STOP </string>
+   <string name="ca">Activités claires créés?</string>
+   <string name="cah">Effacer toute l histoire?</string>
+   <string name="ch">Effacer l historique?</string>
+   <string name="del">Supprimer l activité ??</string>
+   <string name="cs">Démarrage personnalisé </string>
+   <string name="salarm">Régler l alarme </string>
+   <string name="spause">Pause après</string>
+   <string name="sstop">Arrêter et sauvegarder après </string>
+    <string name="hstart">Début: </string>
+     <string name="hfinish">Rin </string>
+     <string name="c1">Couleur 1</string>
+     <string name="c2">Couleur 2</string>
+     <string name="c3">Couleur 3</string>
+     <string name="c4">Couleur 4</string>
+     <string name="c5">Couleur 5</string>
+     <string name="c6">Couleur 6</string>
+     <string name="c7">Couleur 7</string>
+     <string name="c8">Couleur 8</string>
+     <string name="c9">Couleur 9</string>
+     <string name="c10">Couleur 10</string>
+     <string name="c11">Couleur 11</string>
+     <string name="c12">Couleur 12</string>
+     <string name="c13">Couleur 13</string>
+     <string name="c14">Couleur 14</string>
+     <string name="c15">Couleur 15</string>
+     <string name="c16">Couleur 16</string>
+     <string name="c17">Couleur 17</string>
+     <string name="c18">Couleur 18</string>
+     <string name="c19">Couleur 19</string>
+     <string name="c20">Couleur 20</string>
+     <string name="start">Début  </string>
+     <string name="pause">Pause  </string>
+     <string name="stop">Arrêtez  </string>
+      <string name="custom">Custom </string>
+      <string name="history">History  </string>
+       <string name="selcategory">Sélectionnez la catégorie</string>
+       <string name="read">Lire</string>
+       <string name="run">Course</string>
+       <string name="work">Travail</string>
+       <string name="other">Autre</string>
+       <string name="logo">Logo</string>
+       <string name="label">Etiquette</string>
+       <string name="h1">écrire activité.</string>
+       <string name="h2">écrire etiquette.</string>
+       <string name="create">Créer</string>
+       <string name="saveact"> Enregistrer l activité </string> 
+     <string name="nor"> Pas de rapport </string>
+     <string name="username">Nom d utilisateur: </string>
+     <string name="chs"> Effacer l historique </string>
+     <string name="cahs"> Effacer toute l histoire </string>
+     <string name="cas"> Effacer activités </string>
+     <string name="s">Enregistrer</string>
+     <string name="color">Couleur: </string>
+     <string name="history2">Histoire</string>
+     <string name="report">Rapport </string>
+
+     <string name="othert">Autre</string>
+      <string name="created">Activité créé </string>
+      <string name="taal">L activité et l étiquette tipe</string>
+  
+      
+      <string name="historyt">Histoire</string>
+      <string name="noh">Pas d historique pour la date: </string>
+      
+       <string name="historysadadt" >Menu</string>
+       <string name="scf">Sélectionnez première catégorie</string>
+       <string name="sf">Commencez d abord</string>
+       <string name="wel">   Bienvenue  </string>
+       <string name="exit">Appuyez sur le bouton de retour pour sortir</string>
+       <string name="min"> minute </string>
+       <string name="mins"> minutes </string>
+       <string name="h"> heure </string>
+       <string name="hs"> heures </string>
+       <string name="sec"> deuxième </string>
+       <string name="secs"> deuxièmes </string>
+       <string name="works"> Action arrêté </string>
+      
+      <string name="rep">Rapport</string>
+      <string name="date">Date</string>
+      
+      
+      <string name="Settings">Paramètres</string>
+      <string name="saved">Enregistrer les paramètres</string>
+       <string name="lang">Langue</string>
+      
+      
+      <string name="today">Histoire </string>
+      <string name="dela">Supprimer l activité </string>  
+    
+</resources>

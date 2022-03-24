@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/work" android:title="Work" />
+    <item android:id="@+id/read" android:title="Read"/>
+    <item android:id="@+id/menu_blue" android:title="Blue" />
+    <item android:id="@+id/menu_rd" android:title="Red" />
+    <item android:id="@+id/menu_gren" android:title="Green"/>
+    <item android:id="@+id/menu_blu" android:title="Blue" />
+    <item android:id="@+id/menu_re" android:title="Red" />
+    <item android:id="@+id/menu_grn" android:title="Green"/>
+    <item android:id="@+id/other" android:title="Other" />
+</menu>

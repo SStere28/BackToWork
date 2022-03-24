@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  
+     >
+     
+
+    
+    <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+  
+    android:orientation="vertical" 
+    >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="15dp"
+    android:layout_marginBottom="10dp" >
+      
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:layout_centerInParent="true"
+         android:ellipsize="start"
+        android:hint="@string/h1"
+     
+        android:singleLine="true"
+    android:lines="1"
+    android:maxLines="1"
+     >
+
+        <requestFocus />
+    </EditText>
+
+  
+    </LinearLayout>
+    <EditText
+        android:id="@+id/labelt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/h2"
+        android:singleLine="true"
+        android:gravity="center_horizontal"
+        android:layout_centerInParent="true"
+         android:ellipsize="start"
+          android:layout_marginBottom="10dp"
+    android:lines="1"
+    android:maxLines="1" >
+
+        <requestFocus />
+    </EditText>
+
+  
+   
+ <LinearLayout 
+    android:id="@+id/labelf"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     android:layout_marginBottom="10dp"
+    >
+
+     <Button
+         android:id="@+id/labelb"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@android:drawable/btn_default"
+         android:text="@string/label" />
+    
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/saveact"
+          android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/create"
+        android:layout_gravity="center"
+        style="?android:attr/buttonStyleSmall"
+        android:background="@android:drawable/btn_default"
+          android:layout_marginTop="40dp" />
+
+</LinearLayout>
+</ScrollView>
